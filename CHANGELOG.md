@@ -1,5 +1,12 @@
 <pre>
 
+Version 0.1.1
+=============
+> Include captured Screens
+> Changed and improved some descriptions
+> Some Bugs fixed
+----
+
 Version 0.1.0
 =============
 
